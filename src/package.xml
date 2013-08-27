@@ -147,7 +147,6 @@
         <members>unfiled$public/SupportEscalatedCaseReassignment</members>
         <members>unfiled$public/SupportSelfServiceNewLoginandPassword</members>
         <members>unfiled$public/SupportSelfServiceResetPassword</members>
-        <members>unfiled$public/Test</members>
         <name>EmailTemplate</name>
     </types>
     <types>
