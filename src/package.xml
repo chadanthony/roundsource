@@ -179,14 +179,6 @@
     </types>
     <types>
         <members>*</members>
-        <name>LeadCriteriaBasedSharingRule</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>LeadOwnerSharingRule</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>Letterhead</name>
     </types>
     <types>
